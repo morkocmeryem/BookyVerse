@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="pastelYellow">#F9E79F</color>
+    <color name="pastelBlue">#A7C7E7</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="activeColor">#FF6200EE</color>
+    <color name="inactiveColor">#8A8A8A</color>
+    <color name="backgroundColor">#FAFAFA</color>
+    <color name="rippleColor">#FFE0B2</color>
+    <color name="backgroundLight">#F8F1F1</color>
+    <color name="buttonBackground">#A6D1E6</color>
+    <color name="buttonText">#FFFFFF</color>
+    <color name="colorAccent">#F2B5D4</color>
+    <color name="textPrimary">#2F4858</color>
+    <color name="textSecondary">#6D7275</color>
+    <color name="inputBorder">#B1A7A6</color>
+    <color name="errorColor">#E63946</color>
+    <color name="splashTextColor">#6A67CE</color>
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+    <color name="background_light">#FFFFFF</color>
+    <color name="header_text">#3E4EB8</color>
+    <color name="book_item_bg">#FFEBEE</color>
+    <color name="divider_color">#FFCDD2</color>
+    <color name="light_pink">#FFEBF2</color>
+    <color name="dark_pink">#F8BBD0</color>
+    <color name="pink_stroke">#F48FB1</color>
+    <color name="splash_background">#E8F1F2</color>
+    <color name="splash_text_color">#5A6470</color>
+    <color name="settings_background">#F5F5F5</color>
+    <color name="button_text_color">#8C9B9D</color>
+    <color name="main_background">#F5F5F5</color>
+    <color name="main_background_dark">#121212</color>
+    <color name="button_text_colort">#FFFFFF</color>
+    <color name="button_background">#9E9E9E</color>
+    <color name="bottom_nav_background">#4A148C</color>
+    <color name="universe_background">#FFFFFF</color>
+    <color name="universe_text_color">#4A148C</color>
+    <color name="welcome_background">#F5F5F5</color>
+    <color name="welcome_text_color">#4A148C</color>
+    <color name="dialog_background">#FFFFFF</color>
+    <color name="background_dark">#121212</color>
+    <color name="text_primary_light">#000000</color>
+    <color name="text_primary_dark">#FFFFFF</color>
+    <color name="my_light_primary">#6200EE</color>
+    <color name="my_light_primary_container">#BB86FC</color>
+    <color name="my_light_background">#FFFFFF</color>
+    <color name="my_light_on_background">#000000</color>
+    <color name="my_dark_primary">#BB86FC</color>
+    <color name="my_dark_primary_container">#3700B3</color>
+    <color name="my_dark_background">#121212</color>
+    <color name="my_dark_on_background">#FFFFFF</color>
+    <color name="colorBackground">#FFFFFF</color>
+
+</resources>
+

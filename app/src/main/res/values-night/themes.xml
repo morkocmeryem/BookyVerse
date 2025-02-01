@@ -1,0 +1,6 @@
+<resources>
+    <style name="Theme.NewApp" parent="Theme.Material3.Dark.NoActionBar">
+        <item name="android:windowBackground">@color/background_dark</item>
+        <item name="android:textColor">@color/text_primary_dark</item>
+    </style>
+</resources>

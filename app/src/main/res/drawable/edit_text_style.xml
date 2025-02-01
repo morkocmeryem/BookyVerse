@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Arka plan rengi -->
+    <solid android:color="@color/pastelYellow"/>  <!-- Pastel Sarı Arka Plan -->
+
+    <!-- Kenarlıklar -->
+    <corners android:radius="8dp" />  <!-- Yuvarlatılmış köşeler -->
+
+    <!-- Kenar Çizgisi -->
+    <stroke android:color="@color/pastelBlue" android:width="2dp"/>  <!-- Mavi Kenar Çizgisi -->
+</shape>
